@@ -3,7 +3,7 @@
 - 🌱 Intested in : Web Development, App Development, Game Development...
 - 💞️ Familiar programming languages? JS,C#,HTML,CSS,SQL.
 - 👤 Other skills: Word,Excel,Powerpoint,Photoshop, Sony Vegas...
-- - 📫 How to reach me --> lazarciricthemaze@hotmail.com
+- 📫 How to reach me --> lazarciricthemaze@hotmail.com
 
 
 <!---
