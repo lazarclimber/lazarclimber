@@ -4,6 +4,7 @@
 - 💞️ Familiar programming languages? JS,C#,HTML,CSS,SQL.
 - 👤 Other skills: Word,Excel,Powerpoint,Photoshop, Sony Vegas...
 - 📫 How to reach me --> lazarciricthemaze@hotmail.com
+- My Upwork account --> https://www.upwork.com/freelancers/~01a9a639934a450e15
 
 
 <!---
