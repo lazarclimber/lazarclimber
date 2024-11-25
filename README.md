@@ -5,7 +5,8 @@
 - 👤 Other skills: Vue.js, Bootstrap, Word,Excel,Powerpoint,Photoshop, Sony Vegas...
 - 📫 How to reach me --> lazarciricthemaze@hotmail.com
 - My Upwork account --> https://www.upwork.com/freelancers/~01a9a639934a450e15
-
+- Portfolio site -->
+https://portfoliolazar.netlify.app/
 
 <!---
 lazarclimber/lazarclimber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
